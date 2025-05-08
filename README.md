@@ -61,15 +61,5 @@ This project was part of my journey to improve my **Python programming skills** 
 
 ---
 
-## 📸 Demo (Optional)
-
-What would you like? (espresso/latte/cappuccino): latte
-How many quarters: 10
-How many dimes: 0
-How many nickels: 0
-How many pennies: 0
-Total amount in coins received: $2.5
-LATTE READY!
-
 ## 👨‍💻 Author
 - Bhagirath Parmar (https://github.com/bhagirathsinhp)
